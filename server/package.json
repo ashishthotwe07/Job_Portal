@@ -5,6 +5,8 @@
     "start": "node server.js"
   },
   "dependencies": {
+    "@sentry/node": "^8.47.0",
+    "@sentry/profiling-node": "^8.47.0",
     "cloudinary": "^2.5.1",
     "cors": "^2.8.5",
     "dotenv": "^16.4.7",
